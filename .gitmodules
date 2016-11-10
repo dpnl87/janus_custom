@@ -7,3 +7,6 @@
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
