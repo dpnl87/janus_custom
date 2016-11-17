@@ -10,3 +10,6 @@
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "vim-systemd-syntax"]
+	path = vim-systemd-syntax
+	url = https://github.com/Matt-Deacalion/vim-systemd-syntax.git
