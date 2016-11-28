@@ -13,3 +13,6 @@
 [submodule "vim-systemd-syntax"]
 	path = vim-systemd-syntax
 	url = https://github.com/Matt-Deacalion/vim-systemd-syntax.git
+[submodule "Dockerfile.vim"]
+	path = Dockerfile.vim
+	url = https://github.com/ekalinin/Dockerfile.vim.git
