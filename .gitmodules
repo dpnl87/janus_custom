@@ -16,3 +16,6 @@
 [submodule "Dockerfile.vim"]
 	path = Dockerfile.vim
 	url = https://github.com/ekalinin/Dockerfile.vim.git
+[submodule "vim-ps1"]
+	path = vim-ps1
+	url = https://github.com/PProvost/vim-ps1.git
